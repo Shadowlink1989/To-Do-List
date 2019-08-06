@@ -3,8 +3,6 @@ This repository contains code for a "Basic Todo List". This was made when I lear
 
 This project was created using the Angular CLI tool version 8.2.0.
 
-npm install command will be needed to install the node_modules folder.
-
 This project will allow users to create and manage tasks using the four basic CRUD operations, Create, Read, Update, Delete.
     A user should be able to create tasks
     A user should be able to view a list of tasks by their name.
