@@ -1,0 +1,25 @@
+{
+    "tasks": [
+        {
+            "id": 0,
+            "title": "Sweep",
+            "timeToComplete": 25,
+            "description": "Sweep the living room",
+            "items": "Broom"
+        },
+        {
+            "id": 1,
+            "title": "Dishes",
+            "timeToComplete": 25,
+            "description": "You got to clean the dishes",
+            "items": "Sponge, Dish Soap"
+        },
+        {
+            "id": 2,
+            "title": "Trash",
+            "timeToComplete": 5,
+            "description": "Take out the trash",
+            "items": "Trash bag, will power, super human strength"
+        }
+    ]
+}

@@ -3,6 +3,13 @@ This repository contains code for a "Basic Todo List". This was made when I lear
 
 This project was created using the Angular CLI tool version 8.2.0.
 
+npm install - will be needed to to install all dependencies needed
+npm install -g json-server to install a package that will allow me to mock data in any application that can send and receive JSON through HTTP.
+
+It will use angular routing to navigate efficiently to the pages.
+
+It will also build more on the html, css and Javascript skills already learned. Instead of JavaScript, TypeScript will be used.
+
 This project will allow users to create and manage tasks using the four basic CRUD operations, Create, Read, Update, Delete.
     A user should be able to create tasks
     A user should be able to view a list of tasks by their name.
