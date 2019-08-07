@@ -26,3 +26,7 @@ A user should be able to update a specific task on the list of tasks page AND on
 
 This project will have a JSON file at the root of the project to store the tasks. This will enable me to use HTTP
     verbs to perfom CRUD operations.
+
+To test this project run two terminals one for the front end part of the project and one for watching the json file
+    that acts as a mock server to test the project. run ng serve --open on the front end and json-server --watch mockdb.json
+    on the second terminal to test this project.
